@@ -11,7 +11,7 @@
 ```mermaid
 flowchart LR
 
-    A[Programming Fundamentals<br/>C / Python] --> B[Web Development Basics]
+    A[Programming Fundamentals<br/>Python] --> B[Web Development Basics]
 
     B --> C[Backend Development<br/>Flask / API Design]
     B --> D[Frontend Development<br/>Angular / SPA]
@@ -32,7 +32,7 @@ flowchart LR
     I --> K[System Design Thinking]
     J --> K
 
-    K --> L[Hardware Integration<br/>Jetson Orin Nano]
+    K --> L[Hardware Integration<br/>Jetson Orin Nano / Waverover]
 
     L --> M[AI Application<br/>Computer Vision / Optical Flow]
 
@@ -105,7 +105,7 @@ Repo:
 https://github.com/Jerry-ya-ya/JetsonOrinNano.git
 
 demo:
-[Waverover_bind_JetsonOrinNano](./doc/jetson_orin_nano_ai_car/waverover.mov)
+[Waverover_bind_JetsonOrinNano](/doc/jetson_orin_nano_ai_car/waverover.mov)
 
 ---
 
@@ -117,33 +117,28 @@ demo:
 - 指導學生建立完整專案（從環境建置到部署）
 - 協助學生除錯與系統設計理解
 
+### 聘任證明
+[聘任證明](/page/teaching_assistant/certification_of_employment.md)
+
 ### 20260326 助教課
-![20260326_助教課](./img/ta_20260326_01.png)
-![20260326_助教課](./img/ta_20260326_02.png)
+[20260326助教課紀錄](/page/teaching_assistant/20260326.md)
 
 ### 20260430 助教課
-![20260430_助教課](./img/ta_20260430.png)
+[20260430助教課紀錄](/page/teaching_assistant/20260430.md)
 
 ## 開設台灣工業與應用數學會贊助之工作坊
 
 ### 20260428 工作坊
-![20260428_工作坊](./img/workshop_20260428_01.png)
-![20260428_工作坊](./img/workshop_20260428_02.png)
+[20260428工作坊紀錄](/page/workshop/20260428.md)
 
 ### 20260504 工作坊
-![20260504_工作坊](./img/workshop_20260504_01.png)
-![20260504_工作坊](./img/workshop_20260504_02.png)
-![20260504_工作坊](./img/workshop_20260504_03.png)
-![20260504_工作坊](./img/workshop_20260504_04.png)
+[20260504工作坊紀錄](/page/workshop/20260504.md)
 
 ---
 
 # 附加成就
 
-- AI900證照(2024/11/07)
-![AI900_Certificate](./img/ai900_certiport.png)
-![AI900_Certificate](./img/ai900_report.png)
-
+- AI900證照[AI900_Certificate](/page/certification/AI900.md)
 - GitHub Achievement: **Quickdraw** (2026/06/26)
 - GitHub Achievement: **Starstruck** (2026/03/05)
 - GitHub Achievement: **Pull Shark** (2025/06/26)
@@ -152,8 +147,7 @@ demo:
 
 # GitHub 活躍度
 
-![2025_Github_contribution](./img/github_contribute_2025.png)
-![2026_Github_contribution](./img/github_contribute_2026.png)
+[GitHub活躍度紀錄](/page/github/contribution.md)
 
 ---
 
