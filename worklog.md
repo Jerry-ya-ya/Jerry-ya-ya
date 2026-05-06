@@ -13,3 +13,7 @@
 - Created multiple Markdown files for experience images with dedicated links for navigation, and refactored the image directory structure.
 
 - Wrote the personal statement and fixed image links.
+
+## 2026/05/07
+
+- Added an English version and implemented language switching between Chinese and English.

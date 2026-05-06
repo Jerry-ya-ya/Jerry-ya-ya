@@ -1,14 +1,16 @@
-# 個人簡介
+# Jerry Zheng
 
-鄭兆崴(Jerry Zheng)
+Full-Stack Developer / Edge Computing Enthusiast
 
-# 個人摘要
+[English](/README.md)(Current) | [繁體中文](/README_zh-TW.md)
 
-資訊數學背景，具備全端開發與系統整合能力，熟悉前後端分離架構、容器化部署與雲端服務。  
-擁有程式設計教學經驗，能將抽象概念轉化為實作流程。  
-目前專注於軟硬體整合與邊緣運算應用，開發 AI 本地偵測系統。
+# Professional Summary
 
-## 技能流程圖
+Background in Information Mathematics with experience in full-stack development and system integration. Familiar with frontend-backend separation architecture, containerized deployment, and cloud services.
+Experienced in programming instruction and capable of transforming abstract concepts into practical implementation workflows.
+Currently focusing on hardware-software integration and edge computing applications, developing local AI detection systems.
+
+## Skill Flowchart
 
 ```mermaid
 flowchart LR
@@ -45,78 +47,64 @@ flowchart LR
 
 ---
 
-# 自傳
+# Technical Skills
 
-我從國中時期開始接觸電腦相關技術，當時在同儕的分享下第一次使用 Windows CMD 指令介面，對於能夠透過指令操作電腦感到十分新奇，也因此開始對資訊領域產生興趣。到了高中階段，因參與自主學習活動，老師透過 Google Colab 展示 YOLO 物件辨識專案，讓我首次接觸到人工智慧與程式實際應用的概念，同時也開始接觸基礎程式設計課程。之後我以 Python 與 Flask 作為主要學習方向，逐步建立後端開發基礎。
+## Backend
+- Flask (RESTful API Development)
+- Blueprint Modular Architecture
+- Asynchronous Processing Concepts (Redis / Task Queue)
 
-進入大學後，大一時在旁聽班導為二年級開設的 Angular 課程影響下，我開始接觸前後端分離架構，並逐漸朝全端開發方向深入學習。過程中除了功能實作外，也開始理解系統架構、部署與跨環境整合的重要性。我的主要專案是一套以前後端分離架構開發的社群網站，具備管理員與使用者系統、文章發佈功能，以及定時爬蟲自動擷取新聞內容並整合至網站中的功能。整個系統從前端、後端、資料庫到部署皆由我獨立完成，也成功在大一下完成大學的第一個專案，至今也一直在更新。
-
-在專案開發過程中，我認為最具挑戰性的部分並非程式功能本身，而是實際部署與環境整合。第一次將專案部署至 Microsoft Azure 時，由於系統包含多個 Docker 容器，需要處理前後端溝通、資料庫連線、跨容器設定與雲端環境問題。我曾因後端缺少健康檢查 API（Heartbeat API）而導致服務無法正常運作，並花費將近一週時間不斷調整設定與除錯。這段經驗讓我深刻理解，軟體工程不只是撰寫程式，更重要的是如何讓各項服務能穩定地整合與運行。
-
-目前除了持續進行全端開發外，我也開始接觸軟硬整合相關技術，例如 Jetson Orin Nano 與 Waverover 等邊緣運算與自走車控制專案。透過這些經驗，我逐漸理解目前 AI 工具仍難以完全取代跨服務整合、系統部署與硬體溝通等實務工程能力，也讓我更加確立未來希望朝全端開發與軟硬整合方向發展。
-
-此外，我目前也有協助指導學弟妹建立自己的網站專案，過程中除了分享技術經驗外，也逐漸培養自己在專案規劃與技術決策上的能力。我認為自己最大的成就之一，是成功將專案部署至 Azure 公網環境，讓網站能夠被世界各地存取，並透過 PWA 技術讓網站可以在 iPhone 上以接近原生 App 的形式運作。雖然目前仍有許多需要持續精進的地方，但我希望未來能持續累積實務經驗，成為能兼顧系統架構、部署能力與使用者體驗的工程師。
-
----
-
-# 技術能力
-
-## 後端
-- Flask（RESTful API 開發）
-- Blueprint 模組化架構
-- 非同步處理概念（Redis / 任務佇列）
-
-## 前端
-- Angular（SPA 單頁應用）
-- 前後端分離架構
+## Frontend
+- Angular (SPA Single Page Application)
+- Frontend-Backend Separation Architecture
 - HTML / CSS / JavaScript
 
-## DevOps / 雲端
-- Docker（多容器架構、環境隔離）
-- Microsoft Azure（Container Apps 部署）
+## DevOps / Cloud
+- Docker (Multi-container Architecture, Environment Isolation)
+- Microsoft Azure (Container Apps Deployment)
 - Nginx（Reverse Proxy）
 
-## 測試
-- Playwright（End-to-End 測試）
-- Pytest（後端 API 測試）
+## Testing
+- Playwright (End-to-End Testing)
+- Pytest (Backend API Testing)
 
-## 系統與工具
+## Systems & Tools
 - Linux（Ubuntu）
-- SSH / SCP / CLI 操作
-- Git & GitHub（高頻率開發與版本控管）
+- SSH / SCP / CLI Operations
+- Git & GitHub (Frequent Development and Version Control)
 
-## 軟硬體整合 / AI
-- Jetson Orin Nano（邊緣運算）
-- Python 硬體控制（Serial 通訊）
-- 狀態機設計（即時控制系統）
-- 基礎電腦視覺（Optical Flow）
+## Hardware Integration / AI
+- Jetson Orin Nano (Edge Computing)
+- Python Hardware Control (Serial Communication)
+- State Machine Design (Real-time Control Systems)
+- Basic Computer Vision (Optical Flow)
 
-## 其他
-- Blender（3D 建模）
-- Java（基礎）
+## Others
+- Blender (3D Modeling)
+- Java (Basic)
 
 ---
 
-# 專案經驗
+# Project Experience
 
-## 全端網站系統（Angular + Flask）
-- 建立前後端分離架構（SPA + REST API）
-- 使用 Docker 建立多服務系統（Frontend / Backend / Database）
-- 使用 Nginx 實作反向代理
-- 部署至 Microsoft Azure（Container Apps）
-- 整合使用者系統、資料顯示與 API 串接
+## Full-Stack Web Platform (Angular + Flask)
+- Built a frontend-backend separated architecture (SPA + REST API)
+- Used Docker to establish a multi-service system (Frontend / Backend / Database)
+- Implemented reverse proxy with Nginx
+- Deployed to Microsoft Azure (Container Apps)
+- Integrated user systems, data presentation, and API communication
 
 Repo:
 https://github.com/Jerry-ya-ya/JackAndBeanstalks.git
 
 ---
 
-## AI 邊緣運算自走車（開發中）
-- 使用 Jetson Orin Nano 作為運算核心
-- 整合電腦視覺與硬體控制（USB / Serial）
-- 建立狀態機控制車輛行為（前進 / 停止 / 緊急控制）
-- 實作即時影像處理（Optical Flow）
-- 支援鍵盤 / 滑鼠控制與自動化行為切換
+## AI Edge Computing Autonomous Vehicle (In Development)
+- Used Jetson Orin Nano as the computing core
+- Integrated computer vision and hardware control (USB / Serial)
+- Built a state machine to control vehicle behavior (Forward / Stop / Emergency Control)
+- Implemented real-time image processing (Optical Flow)
+- Supported keyboard / mouse control and automated behavior switching
 
 Repo:
 https://github.com/Jerry-ya-ya/JetsonOrinNano.git
@@ -126,45 +114,59 @@ demo:
 
 ---
 
-# 教學經驗
+# Teaching Experience
 
-## 程式設計教學助理
-- 協助教授進行程式設計課程（Flask / Docker / Web Development）
-- 設計實作導向教學內容
-- 指導學生建立完整專案（從環境建置到部署）
-- 協助學生除錯與系統設計理解
+## Programming Teaching Assistant
+- Assisted professors in programming-related courses (Flask / Docker / Web Development)
+- Designed implementation-oriented teaching materials
+- Guided students in building complete projects (from environment setup to deployment)
+- Assisted students with debugging and system design understanding
 
-### 聘任證明
-[聘任證明](/page/teaching_assistant/certification_of_employment.md)
+### Employment Certification
+[Employment Certification](/page_en/teaching_assistant/certification_of_employment.md)
 
-### 20260326 助教課
-[20260326助教課紀錄](/page/teaching_assistant/20260326.md)
+### 20260326 TA Session
+[20260326 TA Session Record](/page_en/teaching_assistant/20260326.md)
 
-### 20260430 助教課
-[20260430助教課紀錄](/page/teaching_assistant/20260430.md)
+### 20260430 TA Session
+[20260430 TA Session Record](/page_en/teaching_assistant/20260430.md)
 
-## 開設台灣工業與應用數學會贊助之工作坊
+## Workshop Sponsored by the Taiwan Society of Industrial and Applied Mathematics
 
-### 20260428 工作坊
-[20260428工作坊紀錄](/page/workshop/20260428.md)
+### 20260428 Workshop
+[20260428 Workshop Record](/page_en/workshop/20260428.md)
 
-### 20260504 工作坊
-[20260504工作坊紀錄](/page/workshop/20260504.md)
+### 20260504 Workshop
+[20260504 Workshop Record](/page_en/workshop/20260504.md)
 
 ---
 
-# 附加成就
+# Additional Achievements
 
-- AI900證照[AI900_Certificate](/page/certification/AI900.md)
-- GitHub Achievement: **Quickdraw** (2026/06/26)
-- GitHub Achievement: **Starstruck** (2026/03/05)
+- [Microsoft_AI900_Certification](/page_en/certification/AI900.md)(2024/11/07)
 - GitHub Achievement: **Pull Shark** (2025/06/26)
+- GitHub Achievement: **Starstruck** (2026/03/05)
+- GitHub Achievement: **Quickdraw** (2026/06/26)
 
 ---
 
-# GitHub 活躍度
+# GitHub Activity
 
-[GitHub活躍度紀錄](/page/github/contribution.md)
+[GitHub Contribution Record](/page_en/github/contribution.md)
+
+---
+
+# Personal statement
+
+I first became interested in computer-related technologies during junior high school. At that time, one of my classmates introduced me to the Windows CMD command-line interface, and I found it fascinating that computers could be controlled through commands. This experience sparked my interest in the field of information technology. During high school, I participated in a self-directed learning program where a teacher demonstrated a YOLO object detection project through Google Colab. It was my first exposure to artificial intelligence and practical software applications, and I also began learning the fundamentals of programming. Afterward, I started focusing on Python and Flask to gradually build my backend development foundation.
+
+After entering university, I attended an Angular course originally opened for second-year students by my academic advisor during my freshman year. This experience introduced me to frontend-backend separation architecture and led me toward full-stack development. Beyond implementing features, I gradually learned the importance of system architecture, deployment, and cross-environment integration. My primary project is a community platform developed with a separated frontend-backend architecture. The system includes administrator and user systems, post publishing functionality, and scheduled web crawlers that automatically fetch and integrate news content into the website. The entire system, including frontend, backend, database, and deployment, was independently developed by myself. I also successfully completed my first university-level project during freshman year and have continued maintaining and improving it ever since.
+
+Throughout the project development process, I found that the most challenging part was not writing the program itself, but deployment and environment integration. During my first deployment to Microsoft Azure, the system contained multiple Docker containers, requiring configuration for frontend-backend communication, database connections, cross-container networking, and cloud environment issues. One major issue occurred because my backend lacked a health check API (Heartbeat API), causing the service to fail repeatedly. I spent nearly an entire week continuously debugging and adjusting configurations before successfully solving the problem. This experience deeply taught me that software engineering is not only about writing code, but also about ensuring that multiple services can operate together reliably and stably.
+
+In addition to full-stack development, I have also started exploring hardware-software integration projects, including Jetson Orin Nano and Waverover edge computing autonomous vehicle systems. Through these experiences, I gradually realized that current AI tools still struggle to fully replace practical engineering abilities such as cross-service integration, deployment, and hardware communication. This further strengthened my determination to continue developing in both full-stack engineering and hardware-software integration.
+
+Currently, I also assist junior students in building their own website projects. Beyond sharing technical knowledge, this experience has gradually strengthened my abilities in project planning and technical decision-making. One of my proudest achievements was successfully deploying my project to the Azure public cloud environment, allowing the website to be accessed globally. Additionally, through PWA technology, the website can be installed and used on iPhone devices with an experience similar to native mobile applications. Although I still have many areas to improve, I hope to continue gaining practical experience and become an engineer capable of balancing system architecture, deployment capability, and user experience.
 
 ---
 
