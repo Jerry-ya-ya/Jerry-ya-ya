@@ -1,51 +1,18 @@
 # 鄭兆崴(Jerry Zheng)
 
+輔仁大學數學系資訊數學組
+
 全端開發者 / 邊緣運算開發者
 
-[English](/README.md) | [繁體中文](/README_zh-TW.md)(Current)
+Github:(https://github.com/Jerry-ya-ya)
+
+Linkdein:(https://www.linkedin.com/in/jerry-zheng-131a90384)
 
 # 個人摘要
 
 資訊數學背景，具備全端開發與系統整合能力，熟悉前後端分離架構、容器化部署與雲端服務。  
 擁有程式設計教學經驗，能將抽象概念轉化為實作流程。
 目前專注於軟硬體整合與邊緣運算應用，開發 AI 本地偵測系統。
-
-## 技能流程圖
-
-```mermaid
-flowchart LR
-
-    A[Programming Fundamentals<br/>Python] --> B[Web Development Basics]
-
-    B --> C[Backend Development<br/>Flask / API Design]
-    B --> D[Frontend Development<br/>Angular / SPA]
-
-    C --> E[Full-Stack Integration<br/>Frontend + Backend Separation]
-    D --> E
-
-    E --> F[Database Usage<br/>PostgreSQL / ORM]
-
-    E --> G[DevOps Basics<br/>Docker / Environment Isolation]
-
-    G --> H[Cloud Deployment<br/>Microsoft Azure / Render]
-
-    H --> I[System Debugging<br/>CORS / Network / Deployment Issues]
-
-    E --> J[Testing<br/>Playwright E2E Testing]
-
-    I --> K[System Design Thinking]
-    J --> K
-
-    K --> L[Hardware Integration<br/>Jetson Orin Nano / Waverover]
-
-    L --> M[AI Application<br/>Computer Vision / Optical Flow]
-
-    M --> N[Real-time System<br/>State Machine / Control Logic]
-
-    K --> O[Teaching & Communication<br/>TA / Workshop Design]
-```
-
----
 
 # 技術能力
 
@@ -94,8 +61,7 @@ flowchart LR
 - 部署至 Microsoft Azure（Container Apps）
 - 整合使用者系統、資料顯示與 API 串接
 
-Repo:
-https://github.com/Jerry-ya-ya/JackAndBeanstalks.git
+Repo:(https://github.com/Jerry-ya-ya/JackAndBeanstalks.git)
 
 ---
 
@@ -106,11 +72,10 @@ https://github.com/Jerry-ya-ya/JackAndBeanstalks.git
 - 實作即時影像處理（Optical Flow）
 - 支援鍵盤 / 滑鼠控制與自動化行為切換
 
-Repo:
-https://github.com/Jerry-ya-ya/JetsonOrinNano.git
+Repo:(https://github.com/Jerry-ya-ya/JetsonOrinNano.git)
 
 demo:
-[Waverover_bind_JetsonOrinNano](/doc/jetson_orin_nano_ai_car/waverover.mov)
+[自走車展示影片](https://github.com/Jerry-ya-ya/Jerry-ya-ya/blob/main/doc/jetson_orin_nano_ai_car/waverover.mov)
 
 ---
 
@@ -123,27 +88,27 @@ demo:
 - 協助學生除錯與系統設計理解
 
 ### 聘任證明
-[聘任證明](/page_zh-TW/teaching_assistant/certification_of_employment.md)
+[聘任證明](https://github.com/Jerry-ya-ya/Jerry-ya-ya/blob/main/page_zh-TW/teaching_assistant/certification_of_employment.md)
 
 ### 20260326 助教課
-[20260326助教課紀錄](/page_zh-TW/teaching_assistant/20260326.md)
+[上課紀錄](https://github.com/Jerry-ya-ya/Jerry-ya-ya/blob/main/page_zh-TW/teaching_assistant/20260326.md)
 
 ### 20260430 助教課
-[20260430助教課紀錄](/page_zh-TW/teaching_assistant/20260430.md)
+[上課紀錄](https://github.com/Jerry-ya-ya/Jerry-ya-ya/blob/main/page_zh-TW/teaching_assistant/20260430.md)
 
 ## 開設台灣工業與應用數學會贊助之工作坊
 
 ### 20260428 工作坊
-[20260428工作坊紀錄](/page_zh-TW/workshop/20260428.md)
+[上課紀錄](https://github.com/Jerry-ya-ya/Jerry-ya-ya/blob/main/page_zh-TW/workshop/20260428.md)
 
 ### 20260504 工作坊
-[20260504工作坊紀錄](/page_zh-TW/workshop/20260504.md)
+[上課紀錄](https://github.com/Jerry-ya-ya/Jerry-ya-ya/blob/main/page_zh-TW/workshop/20260504.md)
 
 ---
 
 # 附加成就
 
-- [微軟AI900證照](/page_zh-TW/certification/AI900.md)(2024/11/07)
+- [微軟AI900證照](https://github.com/Jerry-ya-ya/Jerry-ya-ya/blob/main/page_zh-TW/certification/AI900.md) (2024/11/07)
 - GitHub 成就: **Pull Shark** (2025/06/26)
 - GitHub 成就: **Starstruck** (2026/03/05)
 - GitHub 成就: **Quickdraw** (2026/06/26)
@@ -152,7 +117,7 @@ demo:
 
 # GitHub 活躍度
 
-[GitHub活躍度紀錄](/page_zh-TW/github/contribution.md)
+[GitHub 活躍度](https://github.com/Jerry-ya-ya/Jerry-ya-ya/blob/main/page_zh-TW/github/contribution.md)
 
 ---
 
@@ -167,108 +132,3 @@ demo:
 目前除了持續進行全端開發外，我也開始接觸軟硬整合相關技術，例如 Jetson Orin Nano 與 Waverover 等邊緣運算與自走車控制專案。透過這些經驗，我逐漸理解目前 AI 工具仍難以完全取代跨服務整合、系統部署與硬體溝通等實務工程能力，也讓我更加確立未來希望朝全端開發與軟硬整合方向發展。
 
 此外，我目前也有協助指導學弟妹建立自己的網站專案，過程中除了分享技術經驗外，也逐漸培養自己在專案規劃與技術決策上的能力。我認為自己最大的成就之一，是成功將專案部署至 Azure 公網環境，讓網站能夠被世界各地存取，並透過 PWA 技術讓網站可以在 iPhone 上以接近原生 App 的形式運作。雖然目前仍有許多需要持續精進的地方，但我希望未來能持續累積實務經驗，成為能兼顧系統架構、部署能力與使用者體驗的工程師。
-
----
-
-```mermaid
-mindmap
-  root((Skill Tree))
-    Full Stack Web
-      Frontend
-        Angular
-        HTML
-        CSS
-        JavaScript
-        SPA Architecture
-      Backend
-        Flask
-        RESTful API
-        Blueprint
-        SQLAlchemy
-        PostgreSQL
-      Frontend-Backend Separation
-        API Design
-        CORS
-        JWT Auth
-
-    DevOps & Cloud
-      Docker
-        Environment Isolation
-        Multi-container Architecture
-        Docker Compose
-      Nginx
-        Static Site Hosting
-        Reverse Proxy
-      Microsoft Azure
-        Container Apps
-        Cloud Deployment
-        Health Check Debugging
-      Render
-        MVP Deployment
-
-    Testing
-      Playwright
-        E2E Testing
-        Login Flow Testing
-        Protected Route Testing
-      Pytest
-        Backend Unit Testing
-        API Endpoint Testing
-        Authentication Testing
-
-    System & Tools
-      Git
-      GitHub
-        Frequent Contributions
-        Starstruck
-        Pull Shark
-      Linux
-        Ubuntu
-        CLI
-        SSH
-        SCP
-
-    AI & Edge Computing
-      Jetson Orin Nano
-        Ubuntu on ARM
-        Edge Computing
-      Computer Vision
-        OpenCV
-        Optical Flow
-      Hardware Integration
-        Serial Control
-        State Machine
-        Keyboard Control
-        Mouse Control
-      Local AI Detection Car
-        Real-time Detection
-        Manual Control
-        Emergency Stop
-
-    Teaching & Communication
-      Programming Teaching Assistant
-        Flask Course
-        Docker Course
-        Web Development
-        Student Debugging Support
-      Workshop Design
-        Jetson Workshop
-        Linux Basics
-        NoMachine
-        SSH
-        Tailscale
-
-    Creative & 3D
-      Blender
-        Basic Modeling
-      Web/Game Assets
-        Icon Design
-        Banner Design
-        Website Visual Style
-
-    Programming Languages
-      Python
-      JavaScript
-      TypeScript
-      Java
-```

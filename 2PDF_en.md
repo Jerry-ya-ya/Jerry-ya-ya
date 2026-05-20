@@ -1,14 +1,8 @@
 # Jerry Zheng
 
-Information Mathematics Division, Department of Mathematics, Fu Jen Catholic University
-
 Full-Stack Developer / Edge Computing Enthusiast
 
 [English](/README.md)(Current) | [繁體中文](/zh-TW.md)
-
-Github:(https://github.com/Jerry-ya-ya)
-
-Linkdein:(https://www.linkedin.com/in/jerry-zheng-131a90384)
 
 # Professional Summary
 
